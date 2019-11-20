@@ -2,7 +2,7 @@
 This is a repo for use in our MLADs Lab in Fall 2019.
 
 ## 1. Get access to the notebook VM
-Registration URL : http://bit.ly/32yBHhI
+Registration URL : http://bit.ly/32ZYLoZ
 
 Fill out name, email, etc.
 
