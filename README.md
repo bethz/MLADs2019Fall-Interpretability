@@ -4,7 +4,7 @@ This is a repo for use in our MLADs Lab in Fall 2019.
 ## 1. Access Github repo
 Please use Incognito Chrome to open!
 
-# IMPORTANT: https://aka.ms/mlads215
+# IMPORTANT: Browse to https://aka.ms/mlads215
 
 ## 2. Get access to the notebook VM
 Registration URL : http://bit.ly/32ZYLoZ
