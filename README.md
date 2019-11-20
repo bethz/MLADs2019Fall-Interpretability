@@ -27,7 +27,7 @@ Enter this in the first cell of notebook:
 ```
 !git clone https://github.com/bethz/MLADs2019Fall-Interpretability.git
  
- !python -m pip install azureml-contrib-interpret azureml-sdk --upgrade
+!python -m pip install azureml-contrib-interpret azureml-sdk --upgrade
 ```
 
 Then, execute the cell by typing shift-enter.
@@ -41,7 +41,9 @@ From the jupyter root directory, go to:
 /MLADs2019Fall-Interpretability/MLADS-Local/
 
 Launch this file:
-> blackbox-simple-feature-transformations-explain-local.ipynb
+```
+blackbox-simple-feature-transformations-explain-local.ipynb
+```
 
 ## 5. Setup the Azure notebook
 
@@ -60,7 +62,7 @@ Select the amlWorkspaceName.
 
 Download config.json by selecting download config.json.
 
-Upload it to root
+Upload it to root.
 
 ## 6. Launch the Azure notebook
 
