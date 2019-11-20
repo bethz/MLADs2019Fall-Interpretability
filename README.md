@@ -70,4 +70,12 @@ Upload it to root.
 
 Launch blackbox-train-explain-model-on-amlcompute-and-deploy.ipynb
 
+## 7. References
+
+The interpret and interpret-community repos are located at:
+
+https://github.com/interpretml/interpret
+
+https://github.com/interpretml/interpret-community
+
 
