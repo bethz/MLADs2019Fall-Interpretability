@@ -20,6 +20,7 @@ Open  the JuypterhubURL with the admin username and password.
 In the New menu, create a Python 3.5 notebook:
 
 ![New menu](img/newnb2.png "New")
+
 Select Python 3.5
 
 Enter this in the first cell of notebook:
