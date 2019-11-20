@@ -34,7 +34,7 @@ Then, execute the cell by typing shift-enter.
 
 At this point, you have the files needed for the lab.
 
-## 4. Start the first notebook
+## 4. Start the local notebook
 
 From the jupyter root directory, go to:
 
@@ -43,7 +43,7 @@ From the jupyter root directory, go to:
 Launch this file:
 > blackbox-simple-feature-transformations-explain-local.ipynb
 
-## 5. Setup the second notebook
+## 5. Setup the Azure notebook
 
 Go back to the email you received from CloudLabs and reference:
 - the On Demand Lab Azure Machine Learning ODSC username and password
@@ -62,7 +62,8 @@ Download config.json by selecting download config.json.
 
 Upload it to root
 
-## 6. Launch the second notebook
+## 6. Launch the Azure notebook
 
 Launch blackbox-train-explain-model-on-amlcompute-and-deploy.ipynb
+
 
