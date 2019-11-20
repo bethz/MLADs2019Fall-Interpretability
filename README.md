@@ -67,6 +67,9 @@ Download config.json by selecting download config.json.
 Upload it to root.
 
 ## 6. Launch the Azure notebook
+From the jupyter root directory, go to:
+
+/MLADs2019Fall-Interpretability/MLADS-Azure/
 
 Launch blackbox-train-explain-model-on-amlcompute-and-deploy.ipynb
 
