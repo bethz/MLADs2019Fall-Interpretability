@@ -14,14 +14,14 @@ Please use Chrome to open the access link! Use Incognito.
 
 In the New menu, create a Python 3.5 notebook:
 
-![New menu](img/newnb.png "New")
+![New menu](img/newnb2.png "New")
 Select Python 3.5
 
 Enter this in the first cell of notebook:
 
-> !git clone https://github.com/bethz/MLADs2019Fall-Interpretability.git
+> !git clone https://github.com/bethz/MLADs2019Fall-Interpretability.git​
 > 
-> !python -m pip install azureml-contrib-interpret azureml-sdk --upgrade
+> !python -m pip install azureml-contrib-interpret azureml-sdk --upgrade​
 
 Then, execute the cell by typing shift-enter.
 
