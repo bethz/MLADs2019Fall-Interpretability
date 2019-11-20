@@ -1,4 +1,5 @@
-# MLADs2019Fall-Interpretability
+# MLADS Session 215: Using Interpretable Machine Learning for Responsible AI
+
 This is a repo for use in our MLADs Lab in Fall 2019.
 
 ## 1. Access Github repo
