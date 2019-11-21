@@ -81,4 +81,8 @@ https://github.com/interpretml/interpret
 
 https://github.com/interpretml/interpret-community
 
+## 8. For further questions feel free to reach out to either of:
+
+cjon, eddeleon, bzeran @microsoft.com or by teams
+
 
